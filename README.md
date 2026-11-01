@@ -14,7 +14,7 @@ Start here. A small touch-screen board in a printed case makes a control you can
 
 | Tool | What it does | Status |
 | --- | --- | --- |
-| [Ctrl Case](https://github.com/WOODWERD/cyd-case) | A printed housing for the 2.8" board, shared by every display tool. [Build guide](https://woodwerd.github.io/cyd-case/) | Released |
+| [Ctrl Case](https://woodwerd.github.io/cyd-case/) | A printed housing for the 2.8" board, shared by every display tool. [Source](https://github.com/WOODWERD/cyd-case) | Released |
 
 ## Add a digital tool
 
@@ -22,8 +22,8 @@ Software gives the board its job. Load different firmware and the same board bec
 
 | Tool | What it does | Status |
 | --- | --- | --- |
-| [ESP Ctrl](https://github.com/WOODWERD/esp-ctrl) | Flash firmware and watch the serial log in your browser. [Open it](https://woodwerd.github.io/esp-ctrl/) | Stable |
-| [Flow Ctrl](https://github.com/WOODWERD/cyd-flow-ctrl) | Dictation remote for Wispr Flow. [Flash it](https://woodwerd.github.io/cyd-flow-ctrl/flash/) | Beta |
+| [ESP Ctrl](https://woodwerd.github.io/esp-ctrl/) | Flash firmware and watch the serial log in your browser. [Source](https://github.com/WOODWERD/esp-ctrl) | Stable |
+| [Flow Ctrl](https://woodwerd.github.io/cyd-flow-ctrl/) | Dictation remote for Wispr Flow. [Source](https://github.com/WOODWERD/cyd-flow-ctrl) | Beta |
 | Media Ctrl | Media remote for the Mac and iPad | In progress |
 | Claude Ctrl | Push-to-talk remote for Claude's voice input | In progress |
 
@@ -33,9 +33,9 @@ Some jobs don't need a new screen, just more from a machine you already own. The
 
 | Tool | What it does | Status |
 | --- | --- | --- |
-| [Cable Ctrl](https://github.com/WOODWERD/cable-ctrl) | Fold-over cable flags for the Liene PixCut S1. [Open it](https://woodwerd.github.io/cable-ctrl/) | Public beta |
+| [Cable Ctrl](https://woodwerd.github.io/cable-ctrl/) | Fold-over cable flags for the Liene PixCut S1. [Source](https://github.com/WOODWERD/cable-ctrl) | Public beta |
 | Box Ctrl | Labels for toolboxes | In progress |
-| [File Ctrl](https://github.com/WOODWERD/file-ctrl) | Drawer labels for file cabinets. [Open it](https://woodwerd.github.io/file-ctrl/) | Public beta |
+| [File Ctrl](https://woodwerd.github.io/file-ctrl/) | Drawer labels for file cabinets. [Source](https://github.com/WOODWERD/file-ctrl) | Public beta |
 
 ## Tools for everyday life
 
