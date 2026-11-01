@@ -35,7 +35,7 @@ Some jobs don't need a new screen, just more from a machine you already own. The
 | --- | --- | --- |
 | [Cable Ctrl](https://github.com/WOODWERD/cable-ctrl) | Fold-over cable flags for the Liene PixCut S1. [Open it](https://woodwerd.github.io/cable-ctrl/) | Public beta |
 | Box Ctrl | Labels for toolboxes | In progress |
-| File Ctrl | Labels for file drawers and cabinets | In progress |
+| [File Ctrl](https://github.com/WOODWERD/file-ctrl) | Drawer labels for file cabinets. [Open it](https://woodwerd.github.io/file-ctrl/) | Beta |
 
 ## Tools for everyday life
 
