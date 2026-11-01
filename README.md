@@ -59,7 +59,7 @@ Every released tool here is MIT licensed, so take what's useful.
 
 ---
 
-<a href="https://woodwerd.com"><img src="assets/mark-light.svg#gh-light-mode-only" height="34" alt="WOODWERD Design"></a><a href="https://woodwerd.com"><img src="assets/mark-dark.svg#gh-dark-mode-only" height="34" alt="WOODWERD Design"></a>
+<a href="https://woodwerd.com#gh-light-mode-only"><img src="assets/mark-light.svg#gh-light-mode-only" height="34" alt="WOODWERD Design"></a><a href="https://woodwerd.com#gh-dark-mode-only"><img src="assets/mark-dark.svg#gh-dark-mode-only" height="34" alt="WOODWERD Design"></a>
 
 <sub>THINK · DESIGN · STYLE</sub>
 
