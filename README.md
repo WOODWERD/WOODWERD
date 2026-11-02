@@ -23,7 +23,7 @@ Software gives the board its job. Load different firmware and the same board bec
 | Tool | What it does | Status |
 | --- | --- | --- |
 | [ESP Ctrl](https://woodwerd.github.io/esp-ctrl/) | Flash firmware and watch the serial log in your browser. [Source](https://github.com/WOODWERD/esp-ctrl) | Stable |
-| [Flow Ctrl](https://woodwerd.github.io/cyd-flow-ctrl/) | Dictation remote for Wispr Flow. [Source](https://github.com/WOODWERD/cyd-flow-ctrl) | Beta |
+| [Flow Ctrl](https://woodwerd.github.io/cyd-flow-ctrl/) | Dictation remote for Wispr Flow. [Source](https://github.com/WOODWERD/cyd-flow-ctrl) | Released |
 | Media Ctrl | Media remote for the Mac and iPad | In progress |
 | Claude Ctrl | Push-to-talk remote for Claude's voice input | In progress |
 
@@ -34,8 +34,8 @@ Some jobs don't need a new screen, just more from a machine you already own. The
 | Tool | What it does | Status |
 | --- | --- | --- |
 | [Cable Ctrl](https://woodwerd.github.io/cable-ctrl/) | Fold-over cable flags for the Liene PixCut S1. [Source](https://github.com/WOODWERD/cable-ctrl) | Public beta |
+| Box Ctrl | Labels for toolboxes | In progress |
 | [File Ctrl](https://woodwerd.github.io/file-ctrl/) | Drawer labels for file cabinets. [Source](https://github.com/WOODWERD/file-ctrl) | Public beta |
-| [Box Ctrl](https://woodwerd.github.io/box-ctrl/) | Labels for tool boxes, sized to the box you own. [Source](https://github.com/WOODWERD/box-ctrl) | Public beta |
 
 ## Tools for everyday life
 
