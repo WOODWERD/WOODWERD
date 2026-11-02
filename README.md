@@ -24,7 +24,7 @@ Software gives the board its job. Load different firmware and the same board bec
 | --- | --- | --- |
 | [ESP Ctrl](https://woodwerd.github.io/esp-ctrl/) | Flash firmware and watch the serial log in your browser. [Source](https://github.com/WOODWERD/esp-ctrl) | Stable |
 | [Flow Ctrl](https://woodwerd.github.io/cyd-flow-ctrl/) | Dictation remote for Wispr Flow. [Source](https://github.com/WOODWERD/cyd-flow-ctrl) | Released |
-| Media Ctrl | Media remote for the Mac and iPad | In progress |
+| [Media Ctrl](https://woodwerd.github.io/cyd-media-ctrl/) | Media remote for iPad, iPhone, Mac and Windows. [Source](https://github.com/WOODWERD/cyd-media-ctrl) | Beta |
 | Claude Ctrl | Push-to-talk remote for Claude's voice input | In progress |
 
 ## Work with your other tools
