@@ -29,13 +29,14 @@ Software gives the board its job. Load different firmware and the same board bec
 
 ## Work with your other tools
 
-Some jobs don't need a new screen, just more from a machine you already own. These tools need no board. So far that machine is a printer, making labels for the things around your bench.
+Some jobs don't need a new screen, just more from a machine you already own. These tools need no board. So far that machine is a printer, making labels for the things around your bench, plus a record of what's in each box.
 
 | Tool | What it does | Status |
 | --- | --- | --- |
 | [Cable Ctrl](https://woodwerd.github.io/cable-ctrl/) | Fold-over cable flags for the Liene PixCut S1. [Source](https://github.com/WOODWERD/cable-ctrl) | Public beta |
 | [File Ctrl](https://woodwerd.github.io/file-ctrl/) | Drawer labels for file cabinets. [Source](https://github.com/WOODWERD/file-ctrl) | Public beta |
 | [Box Ctrl](https://woodwerd.github.io/box-ctrl/) | Labels for tool boxes, sized to the box you own. [Source](https://github.com/WOODWERD/box-ctrl) | Public beta |
+| Tool Ctrl | Every tool box you own, and what's in it, ready for Box Ctrl labels | In progress |
 
 ## Tools for everyday life
 
