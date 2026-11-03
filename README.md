@@ -37,6 +37,7 @@ Some jobs don't need a new screen, just more from a machine you already own. The
 | [File Ctrl](https://woodwerd.github.io/file-ctrl/) | Drawer labels for file cabinets. [Source](https://github.com/WOODWERD/file-ctrl) | Public beta |
 | [Box Ctrl](https://woodwerd.github.io/box-ctrl/) | Labels for tool boxes, sized to the box you own. [Source](https://github.com/WOODWERD/box-ctrl) | Public beta |
 | [Tool Ctrl](https://woodwerd.github.io/tool-ctrl/) | Every tool box you own, and what's in it, ready for Box Ctrl labels. [Source](https://github.com/WOODWERD/tool-ctrl) | Public beta |
+| [Stack Ctrl](https://woodwerd.github.io/stack-ctrl/) | Your Systainers from Tool Ctrl, drawn to scale and stacked. [Source](https://github.com/WOODWERD/stack-ctrl) | Public beta |
 
 ## Tools for everyday life
 
