@@ -38,6 +38,7 @@ Some jobs don't need a new screen, just more from a machine you already own. The
 | [Box Ctrl](https://woodwerd.github.io/box-ctrl/) | Labels for tool boxes, sized to the box you own. [Source](https://github.com/WOODWERD/box-ctrl) | Public beta |
 | [Tool Ctrl](https://woodwerd.github.io/tool-ctrl/) | Every tool box you own, and what's in it, ready for Box Ctrl labels. [Source](https://github.com/WOODWERD/tool-ctrl) | Public beta |
 | [Stack Ctrl](https://woodwerd.github.io/stack-ctrl/) | Your Systainers from Tool Ctrl, drawn to scale and stacked. [Source](https://github.com/WOODWERD/stack-ctrl) | Public beta |
+| [Photo Ctrl](https://woodwerd.github.io/photo-ctrl/) | Photos of your tool boxes, sent to your own private repo and read by your own Claude into Tool Ctrl. [Source](https://github.com/WOODWERD/photo-ctrl) | Public beta |
 | [Icon Ctrl](https://woodwerd.github.io/icon-ctrl/) | Icons for tools and shop things, drawn to read on a label. The other tools use them. [Source](https://github.com/WOODWERD/icon-ctrl) | Public beta |
 
 ## Tools for everyday life
