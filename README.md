@@ -29,7 +29,7 @@ Software gives the board its job. Load different firmware and the same board bec
 
 ## Work with your other tools
 
-Some jobs don't need a new screen, just more from a machine you already own. These tools need no board. So far that machine is a printer, making labels for the things around your bench, plus a record of what's in each box and a set of tool icons the others share.
+Some jobs don't need a new screen, just more from a machine you already own. These tools need no board. So far that machine is a printer: a label printer for the things around your bench, and a 3D printer whose filament you can keep count of. Plus a record of what's in each box and a set of tool icons the others share.
 
 | Tool | What it does | Status |
 | --- | --- | --- |
@@ -39,6 +39,7 @@ Some jobs don't need a new screen, just more from a machine you already own. The
 | [Tool Ctrl](https://woodwerd.github.io/tool-ctrl/) | Every tool box you own, and what's in it, ready for Box Ctrl labels. [Source](https://github.com/WOODWERD/tool-ctrl) | Public beta |
 | [Stack Ctrl](https://woodwerd.github.io/stack-ctrl/) | Your Systainers from Tool Ctrl, drawn to scale and stacked. [Source](https://github.com/WOODWERD/stack-ctrl) | Public beta |
 | [Photo Ctrl](https://woodwerd.github.io/photo-ctrl/) | Photos of your tool boxes, sent to your own private repo and read by your own Claude into Tool Ctrl. [Source](https://github.com/WOODWERD/photo-ctrl) | Public beta |
+| [Filament Ctrl](https://woodwerd.github.io/filament-ctrl/) | Filament on your shelf and which spools are in your Bambu Lab printer, kept in your own private repo and fed by your own Claude. [Source](https://github.com/WOODWERD/filament-ctrl) | Public beta |
 | [Icon Ctrl](https://woodwerd.github.io/icon-ctrl/) | Icons for tools and shop things, drawn to read on a label. The other tools use them. [Source](https://github.com/WOODWERD/icon-ctrl) | Public beta |
 
 ## Tools for everyday life
