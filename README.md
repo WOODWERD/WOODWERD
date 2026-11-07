@@ -48,6 +48,7 @@ Not everything here is about getting more done. These tools are made to live wit
 
 | Tool | What it does | Status |
 | --- | --- | --- |
+| [Next Ctrl](https://woodwerd.github.io/next-ctrl/) | What to work on next, today and tomorrow. Say it to Claude with /today or type it; your list stays in your own private repo. [Source](https://github.com/WOODWERD/next-ctrl) | Public beta |
 | CtrlClock | A calm nightstand clock for iPhone that knows what tomorrow holds | In progress |
 
 ## Detour by Design
