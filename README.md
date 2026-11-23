@@ -29,7 +29,7 @@ Software gives the board its job. Load different firmware and the same board bec
 
 ## Work with your other tools
 
-Some jobs don't need a new screen, just more from a machine you already own. These tools need no board. So far that machine is a printer: a label printer for the things around your bench, and a 3D printer whose filament you can keep count of. Plus a record of what's in each box and a set of tool icons the others share.
+Some jobs don't need a new screen, just more from a machine you already own. These tools need no board. Mostly that machine is a printer: a label printer for the things around your bench, and a 3D printer whose filament you can keep count of. One is a touch display beside your Mac. Plus a record of what's in each box and a set of tool icons the others share.
 
 | Tool | What it does | Status |
 | --- | --- | --- |
@@ -41,6 +41,7 @@ Some jobs don't need a new screen, just more from a machine you already own. The
 | [Photo Ctrl](https://woodwerd.github.io/photo-ctrl/) | Photos of your tool boxes, sent to your own private repo and read by your own Claude into Tool Ctrl. [Source](https://github.com/WOODWERD/photo-ctrl) | Public beta |
 | [Filament Ctrl](https://woodwerd.github.io/filament-ctrl/) | Filament on your shelf and which spools are in your Bambu Lab printer, kept in your own private repo and fed by your own Claude. [Source](https://github.com/WOODWERD/filament-ctrl) | Public beta |
 | [Icon Ctrl](https://woodwerd.github.io/icon-ctrl/) | Icons for tools and shop things, drawn to read on a label. The other tools use them. [Source](https://github.com/WOODWERD/icon-ctrl) | Public beta |
+| [Corsair Ctrl](https://woodwerd.github.io/corsair-ctrl/) | A touch panel for the Corsair XENEON EDGE beside a Mac: Claude Code sessions, app switching, media, everyday keys and Wispr Flow voice. Mac only. [Source](https://github.com/WOODWERD/corsair-ctrl) | Beta |
 
 ## Tools for everyday life
 
@@ -69,4 +70,4 @@ Every released tool here is MIT licensed, so take what's useful.
 
 <sub>THINK · DESIGN · STYLE</sub>
 
-<sub>WOODWERD LLC, Austin, Texas. Residential design, device apps, open hardware. Same eye, different materials. Independent projects, not affiliated with or endorsed by Espressif, Wispr or Liene.</sub>
+<sub>WOODWERD LLC, Austin, Texas. Residential design, device apps, open hardware. Same eye, different materials. Independent projects, not affiliated with or endorsed by Espressif, Wispr, Liene or Corsair.</sub>
